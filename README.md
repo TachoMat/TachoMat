@@ -6,7 +6,7 @@ Under EU rules (Regulation (EU) 581/2010), transport companies must download the
 
 ## Where to find us
 
-- Kalisz, Królów and Torzym: kiosks at fuel stations
+- Kalisz, Torzym and Krzeszyce: kiosks at fuel stations
 - Olszyna: a kiosk at a roadside bar by the Olszyna-Forst border crossing on the A18
 
 The kiosks are open day and night. The screens work in Polish, English and Ukrainian. Since October 2026 three of them also show an animated hint when a card goes in the wrong way.
@@ -33,4 +33,4 @@ TachoMat is run by Żaneta Matyśkiewicz (Żaneta Matyśkiewicz TachoMat, sole p
 
 ## Po polsku
 
-TachoMat to samoobsługowe kioski do odczytu karty kierowcy przy trasach tranzytowych. Kierowca wkłada kartę, płaci BLIK-iem albo kodem przedpłaconym i po około minucie ma plik DDD na e-mailu. W kanale B2B plik trafia od razu do biura, które rozlicza czas pracy kierowców przewoźnika. Kioski stoją w Kaliszu, Królowie i Torzymiu na stacjach paliw oraz w barze w Olszynie, przy przejściu granicznym z Niemcami. Kontakt: biuro@tachomat.pl.
+TachoMat to samoobsługowe kioski do odczytu karty kierowcy przy trasach tranzytowych. Kierowca wkłada kartę, płaci BLIK-iem albo kodem przedpłaconym i po około minucie ma plik DDD na e-mailu. W kanale B2B plik trafia od razu do biura, które rozlicza czas pracy kierowców przewoźnika. Kioski stoją w Kaliszu, Torzymiu i Krzeszycach na stacjach paliw oraz w barze w Olszynie, przy przejściu granicznym z Niemcami. Kontakt: biuro@tachomat.pl.
